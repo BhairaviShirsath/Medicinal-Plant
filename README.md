@@ -1,4 +1,4 @@
-# Medicinal Plant Detection System using CNN with Plant Booking Portal  
+# Medicinal Plant Detection System using CNN  
 
 # Description:  
 
